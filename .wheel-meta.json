@@ -1,0 +1,17 @@
+{
+  "wheel_id": 79,
+  "slug": "homeloanbrokergoldcoast-150",
+  "project": "refinancing-gold-coast-homeloanbrokergoldcoast-150",
+  "parent_t1_ref": "homeloanbrokergoldcoast-002",
+  "node_role": "buffer",
+  "money_target": "homeloanbrokergoldcoast.com.au",
+  "primary_kw": "refinancing gold coast",
+  "intended_url": "https://refinancing-gold-coast-homeloanbrokergoldcoast-150.vercel.app/",
+  "links": [
+    {
+      "target_url": "https://refinancing-gold-coast.pages.dev/",
+      "anchor": "refinancing gold coast",
+      "rel": "follow"
+    }
+  ]
+}
