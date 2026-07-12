@@ -1,16 +1,17 @@
 {
-  "wheel_id": 79,
+  "wheel_id": 84,
+  "structure": "umbrella",
   "slug": "homeloanbrokergoldcoast-150",
-  "project": "refinancing-gold-coast-homeloanbrokergoldcoast-150",
-  "parent_t1_ref": "homeloanbrokergoldcoast-002",
+  "project": "home-loans-gold-coast-h-150",
+  "parent_t1_ref": "homeloanbrokergoldcoast-001",
   "node_role": "buffer",
   "money_target": "homeloanbrokergoldcoast.com.au",
-  "primary_kw": "refinancing gold coast",
-  "intended_url": "https://refinancing-gold-coast-homeloanbrokergoldcoast-150.vercel.app/",
+  "primary_kw": "home loans gold coast",
+  "intended_url": "https://aumedia.neocities.org/home-loans-gold-coast-h-150/index.html",
   "links": [
     {
-      "target_url": "https://refinancing-gold-coast.pages.dev/",
-      "anchor": "refinancing gold coast",
+      "target_url": "https://home-loans-gold-coast-guide.vercel.app/",
+      "anchor": "home loans gold coast",
       "rel": "follow"
     }
   ]
